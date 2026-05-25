@@ -3,6 +3,7 @@ Stego v1.0
 ***************************************************************************************
 For all images, use png format.
 Requires: Pillow, numpy
+Commands for MacOS; Windows use python or py instead of "python3."
 ***************************************************************************************
 
 # Hide a text message inside an image
